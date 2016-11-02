@@ -3,5 +3,6 @@
 - title: Theme Setup
   url: /theme-setup/
 
-- title: External Link
-  url: http://mademistakes.com
+- title: Contact
+  url: http://adilbayram.com/contact
+  external: true
